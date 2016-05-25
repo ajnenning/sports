@@ -1,0 +1,55 @@
+away_team	home_team	away_score	home_score	Week	max_score	game
+Babs' Boys	Pocket Dogs	118	147	WEEK 1	147	1
+Giggity Giggity	The Original Champion	136	145	WEEK 1	145	2
+Kuhn's Tecmo Giants	Ron Jeremy's Trolls	160	166	WEEK 1	166	3
+Revo's Raiders	Beloit Schoballers	118	72	WEEK 1	118	4
+Team Ambulance	Clearwater Lake Thugs	94	128	WEEK 1	128	5
+The Crew	Saved By Odell!	100	133	WEEK 1	133	6
+Babs' Boys	Revo's Raiders	124	122	WEEK 2	124	7
+Beloit Schoballers	Ron Jeremy's Trolls	88	131	WEEK 2	131	8
+Giggity Giggity	The Crew	97	153	WEEK 2	153	9
+Saved By Odell!	Clearwater Lake Thugs	141	82	WEEK 2	141	10
+Team Ambulance	Kuhn's Tecmo Giants	109	129	WEEK 2	129	11
+The Original Champion	Pocket Dogs	119	142	WEEK 2	142	12
+Beloit Schoballers	Team Ambulance	88	141	WEEK 3	141	13
+Clearwater Lake Thugs	Kuhn's Tecmo Giants	135	138	WEEK 3	138	14
+Pocket Dogs	The Crew	107	125	WEEK 3	125	15
+Ron Jeremy's Trolls	Giggity Giggity	152	117	WEEK 3	152	16
+Saved By Odell!	Revo's Raiders	122	165	WEEK 3	165	17
+The Original Champion	Babs' Boys	101	162	WEEK 3	162	18
+Beloit Schoballers	Babs' Boys	106	125	WEEK 4	125	19
+Giggity Giggity	Saved By Odell!	72	62	WEEK 4	72	20
+Kuhn's Tecmo Giants	Pocket Dogs	83	132	WEEK 4	132	21
+Ron Jeremy's Trolls	Revo's Raiders	125	103	WEEK 4	125	22
+Team Ambulance	The Original Champion	49	104	WEEK 4	104	23
+The Crew	Clearwater Lake Thugs	117	83	WEEK 4	117	24
+Clearwater Lake Thugs	Beloit Schoballers	69	105	WEEK 5	105	25
+Kuhn's Tecmo Giants	Giggity Giggity	166	107	WEEK 5	166	26
+Pocket Dogs	Saved By Odell!	122	115	WEEK 5	122	27
+Revo's Raiders	Team Ambulance	123	107	WEEK 5	123	28
+Ron Jeremy's Trolls	The Original Champion	136	129	WEEK 5	136	29
+The Crew	Babs' Boys	153	141	WEEK 5	153	30
+Babs' Boys	Saved By Odell!	131	119	WEEK 6	131	31
+Beloit Schoballers	The Crew	129	148	WEEK 6	148	32
+Pocket Dogs	Giggity Giggity	125	115	WEEK 6	125	33
+Revo's Raiders	Clearwater Lake Thugs	117	145	WEEK 6	145	34
+Team Ambulance	Ron Jeremy's Trolls	128	132	WEEK 6	132	35
+The Original Champion	Kuhn's Tecmo Giants	146	128	WEEK 6	146	36
+Clearwater Lake Thugs	Pocket Dogs	94	105	WEEK 7	105	37
+Giggity Giggity	Revo's Raiders	97	124	WEEK 7	124	38
+Saved By Odell!	Ron Jeremy's Trolls	89	119	WEEK 7	119	39
+Team Ambulance	Babs' Boys	106	98	WEEK 7	106	40
+The Crew	Kuhn's Tecmo Giants	164	158	WEEK 7	164	41
+The Original Champion	Beloit Schoballers	181	152	WEEK 7	181	42
+Clearwater Lake Thugs	The Original Champion	125	125	WEEK 8	125	43
+Giggity Giggity	Babs' Boys	93	166	WEEK 8	166	44
+Kuhn's Tecmo Giants	Revo's Raiders	123	90	WEEK 8	123	45
+Ron Jeremy's Trolls	Pocket Dogs	121	110	WEEK 8	121	46
+Saved By Odell!	Beloit Schoballers	132	111	WEEK 8	132	47
+The Crew	Team Ambulance	152	105	WEEK 8	152	48
+Babs' Boys	Clearwater Lake Thugs	137	91	WEEK 9	137	49
+Beloit Schoballers	Giggity Giggity	106	158	WEEK 9	158	50
+Pocket Dogs	Team Ambulance	124	144	WEEK 9	144	51
+Ron Jeremy's Trolls	The Crew	142	120	WEEK 9	142	52
+Saved By Odell!	Kuhn's Tecmo Giants	144	135	WEEK 9	144	53
+The Original Champion	Revo's Raiders	142	88	WEEK 9	142	54
