@@ -49,6 +49,7 @@ def pull_weeks(week):
     pd_score = pd.DataFrame(scores)
     abbrev_score = pd.concat([pd_week,pd_game,pd_abbrev,pd_score],axis=1)
     abbrev_score.columns = ['week','game','team','score']
+    abbrev_score["score"] = abbrev_score["score"].astype(int)
     return abbrev_score
 
 #ENTER WEEK NUMBER
