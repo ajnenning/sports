@@ -63,3 +63,9 @@ for w in week_list:
         all_weeks2 = pull_weeks(w)
         all_weeks = pd.concat([all_weeks,all_weeks2])
 
+#Calc average and max by game and append to score data
+week_game_group = all_weeks.groupby(['week','game']).agg({'score' : {'max_score':np.max, 'mean_score':np.mean }})
+week_game_group.reset_index(inplace=True)
+week_game_group.columns = ['week','game','avg_score','max_score']
+all_weeks_week_game_group = pd.merge(all_weeks,week_game_group,how='inner',on=['week','game'])
+
