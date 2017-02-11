@@ -69,3 +69,11 @@ week_game_group.reset_index(inplace=True)
 week_game_group.columns = ['week','game','avg_score','max_score']
 all_weeks_week_game_group = pd.merge(all_weeks,week_game_group,how='inner',on=['week','game'])
 
+#Calc win/loss/tie
+a=all_weeks_week_game_group
+a['win']=0
+a['loss']=0
+a['tie']=0
+a.ix[a.avg_score==a.max_score,'tie'] = 1
+a.ix[a.score < a.max_score,'loss'] = 1
+a.ix[a.loss+a.tie == 0, 'win'] = 1
